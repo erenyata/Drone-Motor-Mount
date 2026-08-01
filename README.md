@@ -4,3 +4,5 @@ I've developed a clamp type motor mount for general purpose 7" quadcopter(x) dro
 ![image](https://github.com/erenyata/Drone-Motor-Mount/blob/main/top_plate.png)
 
 ![image](https://github.com/erenyata/Drone-Motor-Mount/blob/main/bottom_plate.png)
+
+![image](https://github.com/erenyata/Drone-Motor-Mount/blob/main/assembly.png)
